@@ -51,14 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
