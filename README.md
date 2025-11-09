@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
