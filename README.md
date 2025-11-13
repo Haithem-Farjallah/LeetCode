@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0036-valid-sudoku) |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -145,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
