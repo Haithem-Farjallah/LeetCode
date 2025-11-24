@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sliding Window
 |  |
 | ------- |
