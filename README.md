@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Linked List
 |  |
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
