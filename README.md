@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0459-repeated-substring-pattern](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1894-merge-strings-alternately](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
