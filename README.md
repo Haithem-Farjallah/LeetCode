@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0070-climbing-stairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1925-count-square-sum-triples) |
