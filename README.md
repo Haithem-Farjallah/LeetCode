@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
 | [3531-count-covered-buildings](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0217-contains-duplicate) |
 | [0299-bulls-and-cows](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
