@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
