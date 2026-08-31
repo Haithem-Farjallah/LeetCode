@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3531-count-covered-buildings](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3531-count-covered-buildings) |
 ## Hash Table
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0567-permutation-in-string) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
