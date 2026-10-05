@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Sorting
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
