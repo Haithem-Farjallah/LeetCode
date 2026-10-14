@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Haithem-Farjallah/LeetCode/tree/master/0189-rotate-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Haithem-Farjallah/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Haithem-Farjallah/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
